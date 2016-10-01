@@ -1,1 +1,1 @@
-*The template project for cordova and threejs
+*The template project using cordova and webgl/threejs
